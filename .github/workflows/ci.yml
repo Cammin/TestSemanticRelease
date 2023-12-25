@@ -1,4 +1,3 @@
-
 name: CI
 on:
   push:
@@ -21,4 +20,3 @@ jobs:
         branch: master
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-view rawci.yml hosted with ❤ by GitHub
