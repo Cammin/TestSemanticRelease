@@ -1,3 +1,20 @@
+# [4.6.0](https://github.com/Cammin/TestSemanticRelease/compare/v4.5.0...v4.6.0) (2024-03-12)
+
+
+### Bug Fixes
+
+* A bug fix ([0462677](https://github.com/Cammin/TestSemanticRelease/commit/0462677097e2bed38e5753c14399b80549ef02bb))
+
+
+### Features
+
+* A new feature ([8ce05fa](https://github.com/Cammin/TestSemanticRelease/commit/8ce05fa82737db6e02820e6689f51ad1af423d23))
+
+
+### Performance Improvements
+
+* A code change that improves performance ([d371d61](https://github.com/Cammin/TestSemanticRelease/commit/d371d612b1a20e44e2a69f3dccceec2339bfa750))
+
 # [4.5.0](https://github.com/Cammin/TestSemanticRelease/compare/v4.4.1...v4.5.0) (2024-03-12)
 
 
