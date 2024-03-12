@@ -1,3 +1,10 @@
+# [4.3.0](https://github.com/Cammin/TestSemanticRelease/compare/v4.2.0...v4.3.0) (2024-03-12)
+
+
+### Features
+
+* another ([4bce2e1](https://github.com/Cammin/TestSemanticRelease/commit/4bce2e1e7a9a577ef6349e8264beab00a8cf547b))
+
 # 4.1.0
 ###### October 23, 2023
 
