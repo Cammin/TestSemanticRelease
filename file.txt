@@ -20,3 +20,5 @@ ci: Changes to our CI configuration files and scripts (examples: CircleCi, Sauce
 docs: Documentation only changes
 
 feat: A new feature
+
+fix: A bug fix
