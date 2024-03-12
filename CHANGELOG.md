@@ -1,3 +1,10 @@
+# [4.7.0](https://github.com/Cammin/TestSemanticRelease/compare/v4.6.0...v4.7.0) (2024-03-12)
+
+
+### Features
+
+* did extra things here ([566af0c](https://github.com/Cammin/TestSemanticRelease/commit/566af0c15bfbbce780a2757832cf30a23c12d82a))
+
 # [4.6.0](https://github.com/Cammin/TestSemanticRelease/compare/v4.5.0...v4.6.0) (2024-03-12)
 
 
