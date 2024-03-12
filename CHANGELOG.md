@@ -1,3 +1,10 @@
+# [4.4.0](https://github.com/Cammin/TestSemanticRelease/compare/v4.3.0...v4.4.0) (2024-03-12)
+
+
+### Features
+
+* new line 5. Sntence for example blah blah for example blah blah for example blah blah for example blah blah for example blah blah ([98aaad1](https://github.com/Cammin/TestSemanticRelease/commit/98aaad1fb7401b7ac55caaef3876f26387838931))
+
 # [4.3.0](https://github.com/Cammin/TestSemanticRelease/compare/v4.2.0...v4.3.0) (2024-03-12)
 
 
