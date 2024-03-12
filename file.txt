@@ -3,14 +3,15 @@ new
 test
 
 another
- line 5
- test another line
- 
- yet another line!
- 
- thing
- feat: fixes!
- 
- thing
+line 5
+test another line
 
- build: Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)
+yet another line!
+
+thing
+feat: fixes!
+
+thing
+
+build: Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)
+ci: Changes to our CI configuration files and scripts (examples: CircleCi, SauceLabs)
