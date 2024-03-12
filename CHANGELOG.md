@@ -1,3 +1,10 @@
+## [4.4.1](https://github.com/Cammin/TestSemanticRelease/compare/v4.4.0...v4.4.1) (2024-03-12)
+
+
+### Bug Fixes
+
+* test this is a bug fix ([47da699](https://github.com/Cammin/TestSemanticRelease/commit/47da699b1ccd6e65135521ee1a2bc298e232c4cb))
+
 # [4.4.0](https://github.com/Cammin/TestSemanticRelease/compare/v4.3.0...v4.4.0) (2024-03-12)
 
 
