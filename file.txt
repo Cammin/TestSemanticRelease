@@ -14,4 +14,8 @@ feat: fixes!
 thing
 
 build: Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)
+ci: Changes to our CI configuration files and scripts (examples: CircleCi, SauceLabs)ci: Changes to our CI configuration files and scripts (examples: CircleCi, SauceLabs)
+docs: Documentation only changes
 ci: Changes to our CI configuration files and scripts (examples: CircleCi, SauceLabs)
+
+docs: Documentation only changes
