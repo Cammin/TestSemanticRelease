@@ -1,3 +1,15 @@
+# [4.5.0](https://github.com/Cammin/TestSemanticRelease/compare/v4.4.1...v4.5.0) (2024-03-12)
+
+
+### Bug Fixes
+
+* thing fix ([da7820b](https://github.com/Cammin/TestSemanticRelease/commit/da7820b53d50ea81013b8eadbc93fa307ffb3880))
+
+
+### Features
+
+* new line test ([29499e0](https://github.com/Cammin/TestSemanticRelease/commit/29499e0104845fae29aa03f363d9cac73d3d0975))
+
 ## [4.4.1](https://github.com/Cammin/TestSemanticRelease/compare/v4.4.0...v4.4.1) (2024-03-12)
 
 
