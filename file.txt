@@ -12,3 +12,5 @@ another
  feat: fixes!
  
  thing
+
+ build: Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)
