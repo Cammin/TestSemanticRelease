@@ -13,7 +13,7 @@ jobs:
           fetch-depth: 0
           
       - name: Install Dependencies
-        run: npm install --no-save conventional-changelog-conventionalcommits
+        run: npm install --no-save --ignore-scripts conventional-changelog-conventionalcommits
         
       - name: Release
         uses: cycjimmy/semantic-release-action@v4
