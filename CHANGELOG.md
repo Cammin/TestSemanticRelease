@@ -1,3 +1,10 @@
+# [5.3.0](https://github.com/Cammin/TestSemanticRelease/compare/5.2.0...5.3.0) (2024-05-06)
+
+
+### Features
+
+* test ([650fa56](https://github.com/Cammin/TestSemanticRelease/commit/650fa56e76eb63665c05deec3ec2c3a56a1a9d1a))
+
 # [5.2.0](https://github.com/Cammin/TestSemanticRelease/compare/5.1.0...5.2.0) (2024-05-06)
 
 
