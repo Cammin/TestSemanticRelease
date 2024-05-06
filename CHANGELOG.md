@@ -1,3 +1,15 @@
+# [6.0.0](https://github.com/Cammin/TestSemanticRelease/compare/5.4.0...6.0.0) (2024-05-06)
+
+
+### Features
+
+* test new feature ([4e13df2](https://github.com/Cammin/TestSemanticRelease/commit/4e13df2ad1a37d967fbe057af6236881dc3b2a4b))
+
+
+### BREAKING CHANGES
+
+* This introduces a breaking change. Please update accordingly.
+
 # [5.4.0](https://github.com/Cammin/TestSemanticRelease/compare/5.3.0...5.4.0) (2024-05-06)
 
 
