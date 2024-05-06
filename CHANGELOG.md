@@ -1,3 +1,10 @@
+# [5.2.0](https://github.com/Cammin/TestSemanticRelease/compare/5.1.0...5.2.0) (2024-05-06)
+
+
+### Features
+
+* this huge thing ([2397c96](https://github.com/Cammin/TestSemanticRelease/commit/2397c966ff231988af27a88b5e8a6e2ee4a688ea))
+
 # [5.1.0](https://github.com/Cammin/TestSemanticRelease/compare/5.0.0...5.1.0) (2024-05-06)
 
 
