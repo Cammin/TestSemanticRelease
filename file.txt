@@ -1,18 +1,19 @@
-feat: A new feature
+MAJOR:
+Footer as a BREAKING
+
+MINOR:
+feat: A new feature is introduced
+perf: Changes that improve performance
+
+PATCH:
 fix: A bug fix
-perf: A code change that improves performance
-refactor: A code change that neither fixes a bug nor adds a feature
+revert: Reverting a previous commit
+
+NONE:
+docs: Documentation changes only
+style: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
+refactor: Code changes that neither fix a bug nor add a feature
 test: Adding missing tests or correcting existing tests
-
-docs: Documentation only changes
-ci: Changes to our CI configuration files and scripts (examples: CircleCi, SauceLabs)
-
-After writing the line, make 2 new lines, and you can put BREAKING CHANGE:
-
-
-
-
-
-
-test
-test
+build: Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)
+ci: Changes to the Continuous Integration configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs)
+chore: Other changes that don't modify src or test files
